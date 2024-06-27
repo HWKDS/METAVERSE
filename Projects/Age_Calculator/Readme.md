@@ -5,7 +5,7 @@
 <h2 align="center">Hi there<a href=""><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="25"/></a>, Enjoy with the World of Open source contribution </h2>
 
 
-<p>Hello Coders👨‍💻 ,I am Arpan Biswas, a aspiring Web developer.🤖 The Age Calculator can determine the age or interval between two dates. The calculated age will be displayed in years, months, Date of Birth.👆🏻 .</p>
+<p>Hello Coders👨‍💻 ,🤖 The Age Calculator can determine the age or interval between two dates. The calculated age will be displayed in years, months, Date of Birth.👆🏻 .</p>
 
 
 # Screenshots
